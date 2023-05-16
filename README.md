@@ -1,7 +1,7 @@
 <div style="display: flex;">
 
   <div style="width: 30%; margin-right: 20px;">
-    <details>
+    
       <summary>左侧内容</summary>
 
       # 软件名称
@@ -11,7 +11,7 @@
       * 功能1
       * 功能2
       * 功能3
-    </details>
+    
   </div>
 
   <div style="width: 70%;">
